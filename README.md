@@ -1,7 +1,7 @@
 # IT548 LAB 5 Updated instructions
 ## Make sure pip is installed
 ```bash
-sudo apt install python3 pip
+sudo apt install python3-pip
 ```
 ## Run the bash script
 + I recommend running the bash script in a new folder for this project as it will wget quite a few things
