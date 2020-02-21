@@ -4,7 +4,10 @@
 sudo apt install python3-pip
 ```
 ## Run the bash script
-+ I recommend running the bash script in a new folder for this project as it will wget quite a few things
+```bash
+bash lab5.sh
+```
++ I recommend running the bash script in a new folder for this project as it will wget quite a few things and help with referencing the xml files
 
 ## Skip the "Install Dependencies and OpenCV" section
 + This is unnessary as we installed the opencv module via pip instead of using the beefy source code 
